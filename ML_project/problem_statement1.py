@@ -3,7 +3,7 @@
  your customers from churning out to another telecom company '''
 
 #A./////////////Data Manipulation
-'''a. Extarct the 5th column and store it in 'customer_5
+'''a. Extract the 5th column and store it in 'customer_5
 b.Extract the 15th column andb store it in customer_15
 c.Extract all the male senior citizen whose payment method is electronic check and store 
 the result in "senior_male_electronic"
